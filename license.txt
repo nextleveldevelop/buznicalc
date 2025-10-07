@@ -1,7 +1,8 @@
 -----------------     BuzniCalc    ----------------- 
 ----------------- Free Online Tools ----------------- 
------------------    Version 1     ----------------- 
- 
+-----------------     Version 1      ----------------- 
+-----------------    MIT License     ----------------- 
+
 You can modify it, develop it, sell it, anything you want without any limit.
 
 You can put ads on this online tool without any problem.
