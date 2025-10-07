@@ -45,7 +45,7 @@ define('SITE_NAME', 'BuzniCalc');
 
 تسجيل الدخول (login.php)
 
-استخدام الآلة الحاسبة (calculator.php)
+استخدام الآلة الحاسبة (profit_calculator.php)
 
 الدخول للوحة التحكم إذا كنت مستخدمًا مسجلاً (dashboard.php)
 
@@ -89,7 +89,7 @@ You can now test your site:
 
 * Login (login.php)
 
-* Use the calculator (calculator.php)
+* Use the calculator (profit_calculator.php)
 
 * Access the dashboard if logged in (dashboard.php)
 
